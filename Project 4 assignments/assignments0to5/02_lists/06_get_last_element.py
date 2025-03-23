@@ -1,5 +1,5 @@
 def get_first_element(lst):
-    print(lst[-1])  
+    print(lst[0])  
 
 
 n = int(input("Enter the number of elements in the list: ")) 
