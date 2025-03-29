@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Atomic Habbits",
+        "author": "Ali",
+        "year": 2025,
+        "genre": "Comedy",
+        "read": false
+    },
+    {
+        "title": "Rich Dad",
+        "author": "Asim",
+        "year": 1456,
+        "genre": "Action",
+        "read": false
+    }
+]
